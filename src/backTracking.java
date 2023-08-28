@@ -1,9 +1,9 @@
 
-public class Main {
+public class backTracking {
     static int count;
     static int n;
 
-    static int[] X = new int[100];
+    static int[] X = new int[4];
     public static boolean check(int v, int k){
           return X[k-1] + v <=1;
     }

@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class linearInterger {
+public class linearInterger {
+    public static void main(String[] args) {
+
+    }
 }
